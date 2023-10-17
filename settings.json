@@ -1,0 +1,25 @@
+{
+    "workbench.colorTheme": "One Dark Pro Mix",
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            80
+        ],
+        "editor.selectionHighlight": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": false
+    },
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontWeight": "600",
+    "editor.fontLigatures": true,
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "tabnine.experimentalAutoImports": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.fontSize": 16,
+    "workbench.iconTheme": "eq-material-theme-icons-light",
+}
